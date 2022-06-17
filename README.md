@@ -3,13 +3,15 @@
 ##Task
 **Refactor** existing code provided (HTML and CSS).
 
-##User Story
+##Directions Given
+
+###User Story
 ```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
-##Acceptance Criteria
+###Acceptance Criteria
 ```
 GIVEN a webpage meets accessibility standards
 
@@ -29,7 +31,9 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-##Refactoring HTML
+##Refactoring Administered
+
+###Refactoring HTML
 ```
 Changed existing div elements to semantic elements.
 Removed 'redundant' class attributes and consolidated classes to streamline css
@@ -38,8 +42,16 @@ Put heading elements in hierarchical sequential-descending order.
 Added alt attributes to images.
 ```
 
-##Refactoring CSS
+###Refactoring CSS
 ```
 Consolidated selectors and properties to follow semantic structure.
 Added comments to all css sections
 ```
+
+###Deployed link
+https://lston40.github.io/week1-Challenge/
+
+###Screenshot
+![lston40 github io_week1-Challenge_](https://user-images.githubusercontent.com/103286445/174197049-32ad915e-090e-4d0a-b944-a1e2cf55906c.png)
+
+
